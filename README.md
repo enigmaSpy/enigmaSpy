@@ -17,7 +17,7 @@
 - JavaScript:
   - I have basic knowledge in ES6.
 
-### What am i learning now?
+### What am I learning now?
 
 - React.js
 - sass/less
