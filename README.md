@@ -49,6 +49,7 @@ Practicing sports in my free time
 
 - React.js
 - sass/less
+- Python
 
 #### I am a beginner Front-End developer. 
 #### My goal is to become a self-contained full-stack developer.
@@ -57,4 +58,6 @@ Practicing sports in my free time
 
   - Node.js
   - React Native
-  - Python
+  - Dart
+  - Rust
+  - Flutter
