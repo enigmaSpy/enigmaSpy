@@ -51,9 +51,6 @@ Practicing sports in my free time
 - sass/less
 - Python
 
-#### I am a beginner Front-End developer. 
-#### My goal is to become a self-contained full-stack developer.
-
 ### What I would like to learn:
 
   - Node.js
