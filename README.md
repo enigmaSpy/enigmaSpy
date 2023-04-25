@@ -49,12 +49,18 @@ Practicing sports in my free time
 
 - React.js
 - sass/less
-- Python
+
 
 ### What I would like to learn:
 
-  - Node.js
-  - React Native
+  - Javascript
+    ⤷Node.js
+    ⤷React Native
+  - Python
+      ⤷Django
   - Dart
+      ⤷Flutter
   - Rust
-  - Flutter
+  - Aspects of cybersecurity
+  - MongoDB
+  
