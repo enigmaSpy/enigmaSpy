@@ -54,12 +54,12 @@ Practicing sports in my free time
 ### What I would like to learn:
 
   - Javascript
-    ⤷Node.js
-    ⤷React Native
+    -- ⤷Node.js
+    -- ⤷React Native
   - Python
-      ⤷Django
+      -- ⤷Django
   - Dart
-      ⤷Flutter
+      -- ⤷Flutter
   - Rust
   - Aspects of cybersecurity
   - MongoDB
