@@ -13,6 +13,11 @@ Developing interactive user interfaces
 Exploring new technologies and frameworks
 Practicing sports in my free time
 
+## Languages
+- Polish: native
+- English: B1
+- Japanese: currently learning
+
 ### So far I have only mastered the basics of: 
 - HTML:
 - CSS 
