@@ -1,7 +1,7 @@
 # Greetings!👋
 
 ## A little bit about myself
-Hi there! My name is Kamil and I'm a computer science student. My passion is web development and everything related to creating new web applications. Currently, I'm learning various technologies such as JavaScript, HTML, CSS, node.js, Python, Flutter, React.js, Dart, Rust, and TypeScript to further develop my skills as a web developer.
+Hi there! My name is Kamil and I'm a computer science student. My passion is web development and everything related to creating new web applications. Currently, I'm learning various technologies such as JavaScript, HTML, CSS, Node.js, Python, React.js, TypeScript to further develop my skills as a web developer.
 
 In my free time, I like to stay active by practicing sports. My favorite disciplines are Judo and spending time at the gym. This allows me to relax after long coding sessions, take care of my health, and maintain a work-life balance.
 
