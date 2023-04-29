@@ -14,9 +14,9 @@ Exploring new technologies and frameworks
 Practicing sports in my free time
 
 ## Languages
-- 🇵🇱 Polish: native
-- 🇬🇧 English: B1
-- 🇯🇵 Japanese: currently learning
+- Polish: native 🇵🇱
+- English: B1 🇬🇧 
+- Japanese: currently learning 🇯🇵 
 
 ### So far I have only mastered the basics of: 
 - HTML:
@@ -50,24 +50,30 @@ Practicing sports in my free time
   - Basics of JavaScript syntax and concepts, such as variables, operators, loops, conditions, functions, objects, etc.
   - Working with the Document Object Model (DOM) to manipulate HTML and CSS elements on a web page.
   
-- Styled Components
+
 
 ### What am I learning now?
 
 - React.js
+- Styled Components
 - sass/less
 
 
 ### What I would like to learn:
 
-- Javascript
-  - ⤷Node.js
-  - ⤷React Native
-- Python
-  - ⤷Django
-- Dart
-  - ⤷Flutter
-- Rust
-- Aspects of cybersecurity
-- MongoDB
-  
+- Javascript 📖
+  - ⤷Node.js ⭐️⭐️⭐️
+  - ⤷React Native ⭐️
+- Python ⭐️⭐️
+  - ⤷Django ⭐️⭐️
+- Dart ⭐️
+  - ⤷Flutter ⭐️
+- Rust ⭐️
+- Aspects of cybersecurity ⭐️⭐️⭐️
+- MongoDB ⭐️⭐️⭐️
+
+Legend:
+⭐️ - low interest in the technology
+⭐️⭐️ - medium interest in the technology
+⭐️⭐️⭐️ - high interest in the technology
+📖 - currently learning
