@@ -50,7 +50,7 @@ Practicing sports in my free time
   - Basics of JavaScript syntax and concepts, such as variables, operators, loops, conditions, functions, objects, etc.
   - Working with the Document Object Model (DOM) to manipulate HTML and CSS elements on a web page.
   
--Styled Components
+- Styled Components
 
 ### What am I learning now?
 
