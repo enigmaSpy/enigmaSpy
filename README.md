@@ -62,18 +62,26 @@ Practicing sports in my free time
 ### What I would like to learn:
 
 - Javascript 📖
-  - ⤷Node.js ⭐️⭐️⭐️
-  - ⤷React Native ⭐️
+  <br>⤷Node.js ⭐️⭐️⭐️
+  <br>⤷React Native ⭐️
+ 
 - Python ⭐️⭐️
-  - ⤷Django ⭐️⭐️
+  <br> ⤷Django ⭐️⭐️
+  
 - Dart ⭐️
-  - ⤷Flutter ⭐️
+  <br> ⤷Flutter ⭐️
+
 - Rust ⭐️
+
 - Aspects of cybersecurity ⭐️⭐️⭐️
+
 - MongoDB ⭐️⭐️⭐️
 
-Legend:
-⭐️ - low interest in the technology
-⭐️⭐️ - medium interest in the technology
-⭐️⭐️⭐️ - high interest in the technology
+- Solidity ⭐️⭐️
+
+
+Legend: <br>
+⭐️ - low interest in the technology <br>
+⭐️⭐️ - medium interest in the technology <br>
+⭐️⭐️⭐️ - high interest in the technology <br>
 📖 - currently learning
