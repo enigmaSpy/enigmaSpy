@@ -65,6 +65,8 @@ Practicing sports in my free time
   <br>⤷Node.js ⭐️⭐️⭐️
   <br>⤷React Native ⭐️
  
+- TypeScript ⭐️⭐️⭐️
+ 
 - Python ⭐️⭐️
   <br> ⤷Django ⭐️⭐️
   
