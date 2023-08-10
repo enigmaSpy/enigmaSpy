@@ -52,16 +52,10 @@ Practicing sports in my free time
   
 
 
-### What am I learning now?
-
-- React.js
-- Styled Components
-- sass/less
-
-
 ### What I would like to learn:
 
 - Javascript 📖
+  <br>⤷React 📖
   <br>⤷Node.js ⭐️⭐️⭐️
   <br>⤷React Native ⭐️
  
@@ -69,9 +63,6 @@ Practicing sports in my free time
  
 - Python ⭐️⭐️
   <br> ⤷Django ⭐️⭐️
-  
-- Dart ⭐️
-  <br> ⤷Flutter ⭐️
 
 - Rust ⭐️
 
