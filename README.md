@@ -60,18 +60,12 @@ Practicing sports in my free time
   <br>⤷React Native ⭐️
  
 - TypeScript ⭐️⭐️⭐️
- 
-- Python ⭐️⭐️
-  <br> ⤷Django ⭐️⭐️
-
-- Rust ⭐️
-
 - Aspects of cybersecurity ⭐️⭐️⭐️
-
 - MongoDB ⭐️⭐️⭐️
-
-- Solidity ⭐️⭐️
-
+- SQL ⭐️⭐️
+- Solidity ⭐️
+- Python ⭐️
+- Rust ⭐️
 
 Legend: <br>
 ⭐️ - low interest in the technology <br>
