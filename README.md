@@ -1,74 +1,87 @@
-# Greetings!👋
+# Hi, I’m Kamil 👋
 
-## A little bit about myself
-Hi there! My name is Kamil and I'm a computer science student. My passion is web development and everything related to creating new web applications. Currently, I'm learning various technologies such as JavaScript, HTML, CSS, Node.js, Python, React.js, TypeScript to further develop my skills as a web developer.
+I'm a **Computer Science student** from Poland with a strong passion for **web development**. I love creating modern, user-friendly web applications and constantly exploring new technologies.
 
-In my free time, I like to stay active by practicing sports. My favorite disciplines are Judo and spending time at the gym. This allows me to relax after long coding sessions, take care of my health, and maintain a work-life balance.
+---
 
-I'm open to collaborating on interesting projects, developing my skills, and learning new technologies.
+## About Me
 
-### My interests
-Creating modern and innovative web applications
-Developing interactive user interfaces
-Exploring new technologies and frameworks
-Practicing sports in my free time
+- **Passionate Learner:** Always eager to learn and try out new tools and frameworks.
+- **Team Player:** Open to collaborating on interesting projects.
+- **Balanced Lifestyle:** I practice sports like judo and hit the gym to unwind after coding sessions.
+
+---
+
+## Skills & Technologies
+
+### What I Can Do:
+
+- **HTML:**  
+  - Write clean, semantic code  
+  - Build responsive pages using RWD techniques  
+  - Apply accessibility and SEO principles
+  - **Use HTML5 best practices** to create modern, well-structured documents
+
+- **CSS:**  
+  - Create flexible layouts with Media Queries and Flexbox  
+  - Style text, forms, animations, and more
+  - Styled components
+
+- **JavaScript:**  
+  - Basic ES6 syntax and programming concepts  
+  - Manipulate the DOM to update web pages dynamically
+  - **Familiarity with** React to build interactive applications
+
+---
+
+### What I’m Learning & Interested In:
+
+### JavaScript 📖
+- ⤷ React 📖  
+- ⤷ Next.js 📖  
+- ⤷ Node.js ⭐️⭐️⭐️  
+- ⤷ React Native ⭐️ → Lynx  
+
+### TypeScript 📖  
+
+### Backend & Databases
+- ⤷ SQL 📖  
+- ⤷ MongoDB ⭐️⭐️⭐️  
+- ⤷ PostgreSQL ⭐️
+
+
+### Cybersecurity Aspects ⭐️⭐️⭐️  
+- ⤷ OWASP TOP10 📖  
+- ⤷ Web Security Principles 📖  
+- ⤷ Penetration Testing ⭐️⭐️    
+
+### Blockchain & Smart Contracts  
+- ⤷ Solidity ⭐️  
+- ⤷ Web3.js / Ethers.js ⭐️  
+
+### Systems & Low-Level Programming  
+- ⤷ Rust ⭐️  
+- ⤷ Python ⭐️  
+
+### Other Interests  
+- ⤷ Brain-Computer Interfaces (BCI) ⭐️  
+
+
+---
+
+### Legend:
+📖 – Currently learning  
+⭐️ – Low interest  
+⭐️⭐️ – Medium interest  
+⭐️⭐️⭐️ – High interest  
+---
 
 ## Languages
-- Polish: native 🇵🇱
-- English: B1 🇬🇧 
-- Japanese: currently learning 🇯🇵 
 
-### So far I have only mastered the basics of: 
-- HTML:
-- CSS 
-- JavaScript
+- **Polish:** Native 🇵🇱
+- **English:** B1 🇬🇧
+- **Japanese:** Learning 🇯🇵
 
+---
 
-### What can I do💁‍♂️ : 
-- HTML:
-   - Creating semantically correct HTML code.
-   - Familiarity with various HTML tags and their uses.
-   - Ability to use HTML attributes such as classes, IDs, links, and images.
-   - Familiarity with basic HTML form elements and ability to handle them.
-  - Creating tables and formatting them using CSS.
-  - Ability to create responsive web pages using RWD (Responsive Web Design) techniques in HTML.
-  - Knowledge of accessibility and usability principles in HTML.
-  - Ability to use tools for inspecting and debugging HTML, such as developer tools in web browsers.
-  - Understanding of SEO (Search Engine Optimization) principles in the context of HTML.
-  - Ability to integrate HTML with other technologies, such as CSS, JavaScript, and other programming languages.
-- CSS:
-  - Creating responsive and flexible layouts using techniques such as Media Queries and Flexbox.
-  - Understanding and applying basic CSS selectors such as class selectors, ID selectors, element selectors, and pseudo-classes.
-  - Styling text, including setting fonts, colors, sizes, shadows, and text decorations.
-  - Familiarity with basic CSS properties for styling elements, such as margins, paddings, backgrounds, and borders.
-  - Working with CSS animations and transformations, such as translations, rotations, and scaling.
-  - Creating simple visual effects, such as shadows, gradients, and transitions.
-  - Styling forms and interactive elements, such as buttons, links, and lists.
-
-- JavaScript:
-  - I have basic knowledge in ES6.
-  - Basics of JavaScript syntax and concepts, such as variables, operators, loops, conditions, functions, objects, etc.
-  - Working with the Document Object Model (DOM) to manipulate HTML and CSS elements on a web page.
-  
-
-
-### What I would like to learn:
-
-- Javascript 📖
-  <br>⤷React 📖
-  <br>⤷Node.js ⭐️⭐️⭐️
-  <br>⤷React Native ⭐️
- 
-- TypeScript ⭐️⭐️⭐️
-- Aspects of cybersecurity ⭐️⭐️⭐️
-- MongoDB ⭐️⭐️⭐️
-- SQL ⭐️⭐️
-- Solidity ⭐️
-- Python ⭐️
-- Rust ⭐️
-
-Legend: <br>
-⭐️ - low interest in the technology <br>
-⭐️⭐️ - medium interest in the technology <br>
-⭐️⭐️⭐️ - high interest in the technology <br>
-📖 - currently learning
+I'm always excited to work on new projects and improve my skills. Let's connect and create something amazing together!
