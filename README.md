@@ -1,87 +1,85 @@
-# Hi, I’m Kamil 👋
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Fullstack+Developer+in+progress+💻;Cybersecurity+enthusiast+🔐;Student+Informatyki+🚀" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=next,bash,python,linux,windows" />
+</p>
 
-I'm a **Computer Science student** from Poland with a strong passion for **web development**. I love creating modern, user-friendly web applications and constantly exploring new technologies.
+<table width="100%">
+  <tr>
+  <td align="center">
+    <h1>Cześć 👋 Nazywam się Kamil!</h1><img src="https://komarev.com/ghpvc/?username=enigmaSpy&label=Profile+Views&color=blueviolet" alt="views" />
+    <img src="https://img.shields.io/github/followers/enigmaSpy?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/stars/enigmaSpy?style=social" />
+    <div align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=enigmaSpy&show_icons=true&theme=radical&hide=issues" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmaSpy&layout=compact&theme=radical" />
+    </div>
+  </td>
+    <td align="right">
+    <img src="https://imgur.com/v5YTl0U.jpg"/>
+    </td>
+  </tr>
+</table>
 
----
-
-## About Me
-
-- **Passionate Learner:** Always eager to learn and try out new tools and frameworks.
-- **Team Player:** Open to collaborating on interesting projects.
-- **Balanced Lifestyle:** I practice sports like judo and hit the gym to unwind after coding sessions.
-
----
-
-## Skills & Technologies
-
-### What I Can Do:
-
-- **HTML:**  
-  - Write clean, semantic code  
-  - Build responsive pages using RWD techniques  
-  - Apply accessibility and SEO principles
-  - **Use HTML5 best practices** to create modern, well-structured documents
-
-- **CSS:**  
-  - Create flexible layouts with Media Queries and Flexbox  
-  - Style text, forms, animations, and more
-  - Styled components
-
-- **JavaScript:**  
-  - Basic ES6 syntax and programming concepts  
-  - Manipulate the DOM to update web pages dynamically
-  - **Familiarity with** React to build interactive applications
+<div align="center">
+  
+</div>
 
 ---
 
-### What I’m Learning & Interested In:
+## 💼 Aktualnie robię:
 
-### JavaScript 📖
-- ⤷ React 📖  
-- ⤷ Next.js 📖  
-- ⤷ Node.js ⭐️⭐️⭐️  
-- ⤷ React Native ⭐️ → Lynx  
+- 🎓 Studiuję na Uniwersytecie Śląskim – Informatyka
+- 🛠️ Tworzę aplikacje webowe
+- 🔐 Uczę się web security i cyberbezpieczeństwa
 
-### TypeScript 📖  
-
-### Backend & Databases
-- ⤷ SQL 📖  
-- ⤷ MongoDB ⭐️⭐️⭐️  
-- ⤷ PostgreSQL ⭐️
+---
 
 
-### Cybersecurity Aspects ⭐️⭐️⭐️  
-- ⤷ OWASP TOP10 📖  
-- ⤷ Web Security Principles 📖  
-- ⤷ Penetration Testing ⭐️⭐️    
+### 📦 Frontend
+- **JavaScript** 📖  
+  └─ React 📖  
+  └─ Next.js 📖  
+  └─ [Lynx.js](https://lynxjs.org/) ⭐️⭐️
+- **TypeScript** 📖  
 
-### Blockchain & Smart Contracts  
-- ⤷ Solidity ⭐️  
-- ⤷ Web3.js / Ethers.js ⭐️  
+### 🛠️ Backend & Databases
+- Node.js ⭐️⭐️⭐️  
+- SQL 📖  
+- MongoDB ⭐️⭐️⭐️  
+- PostgreSQL ⭐️  
 
-### Systems & Low-Level Programming  
-- ⤷ Rust ⭐️  
-- ⤷ Python ⭐️  
+### 🛡️ Cybersecurity
+- Web Security Principles 📖  
+- OWASP Top 10 📖  
+- Penetration Testing ⭐️⭐️  
+- General WebSec Knowledge ⭐️⭐️⭐️  
 
-### Other Interests  
-- ⤷ Brain-Computer Interfaces (BCI) ⭐️  
+### ⛓️ Blockchain & Smart Contracts
+- Solidity ⭐️  
+- Web3.js ⭐️  
+
+### ⚙️ Systems & Low-Level Programming
+- Rust ⭐️  
+- Python ⭐️  
+
+### 🎯 Other Interests
+- Automation & Bot Development 🤖  
+- Open Source & Ethical Hacking 🌐
+
+
+
+## 🔗 Znajdź mnie tutaj:
+
+<p align="center">
+  <a href="https://linkedin.com/in/soczek-v2-2918692a6"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:soczekv18@gmail.com"><img src="https://img.shields.io/badge/email-ContactMe-green?style=flat&logo=gmail"></a>
+  <a href="https://github.com/enigmaSpy"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
+</p>
 
 
 ---
 
-### Legend:
-📖 – Currently learning  
-⭐️ – Low interest  
-⭐️⭐️ – Medium interest  
-⭐️⭐️⭐️ – High interest  
----
-
-## Languages
-
-- **Polish:** Native 🇵🇱
-- **English:** B1 🇬🇧
-- **Japanese:** Learning 🇯🇵
-
----
-
-I'm always excited to work on new projects and improve my skills. Let's connect and create something amazing together!
+<p align="center">
+  <i>💡 Zawsze chętny do nauki i nowych projektów!</i>
+</p>
