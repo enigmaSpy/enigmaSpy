@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Fullstack+Developer+in+progress+💻;Cybersecurity+enthusiast+🔐;Student+Informatyki+🚀" alt="Typing SVG" />
   <img src="https://skillicons.dev/icons?i=next,bash,python,linux,windows" />
