@@ -63,10 +63,11 @@
 - Rust ⭐️  
 - Python ⭐️  
 
-### 🎯 Other Interests
-- Automation & Bot Development 🤖  
-- Open Source & Ethical Hacking 🌐
-
+Legend:
+⭐️ - low interest in the technology
+⭐️⭐️ - medium interest in the technology
+⭐️⭐️⭐️ - high interest in the technology
+📖 - currently learning
 
 
 ## 🔗 Znajdź mnie tutaj:
