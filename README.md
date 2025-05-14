@@ -64,9 +64,13 @@
 - Python ⭐️  
 
 Legend:
+
 ⭐️ - low interest in the technology
+
 ⭐️⭐️ - medium interest in the technology
+
 ⭐️⭐️⭐️ - high interest in the technology
+
 📖 - currently learning
 
 
