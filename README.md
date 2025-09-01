@@ -61,7 +61,7 @@
 
 ### ⚙️ Systems & Low-Level Programming
 - Rust ⭐️  
-- Python ⭐️  
+- Python 📖
 
 Legend:
 
