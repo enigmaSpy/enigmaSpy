@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
   <td align="center">
-    <h1>Cześć 👋 Nazywam się Kamil!</h1><img src="https://komarev.com/ghpvc/?username=enigmaSpy&label=Profile+Views&color=blueviolet" alt="views" />
+    <h1>Yooo 👋 Nazywam się Kamil!</h1><img src="https://komarev.com/ghpvc/?username=enigmaSpy&label=Profile+Views&color=blueviolet" alt="views" />
     <img src="https://img.shields.io/github/followers/enigmaSpy?label=Followers&style=social" />
     <img src="https://img.shields.io/github/stars/enigmaSpy?style=social" />
     <div align="right">
@@ -29,49 +29,9 @@
 
 ## 💼 Aktualnie robię:
 
-- 🎓 Studiuję na Uniwersytecie Śląskim – Informatyka
-- 🛠️ Tworzę aplikacje webowe
-- 🔐 Uczę się web security i cyberbezpieczeństwa
-
----
-
-
-### 📦 Frontend
-- **JavaScript** 📖  
-  └─ React 📖  
-  └─ Next.js 📖  
-  └─ [Lynx.js](https://lynxjs.org/) ⭐️⭐️
-- **TypeScript** 📖  
-
-### 🛠️ Backend & Databases
-- Node.js ⭐️⭐️⭐️  
-- SQL 📖  
-- MongoDB ⭐️⭐️⭐️  
-- PostgreSQL ⭐️  
-
-### 🛡️ Cybersecurity
-- Web Security Principles 📖  
-- OWASP Top 10 📖  
-- Penetration Testing ⭐️⭐️  
-- General WebSec Knowledge ⭐️⭐️⭐️  
-
-### ⛓️ Blockchain & Smart Contracts
-- Solidity ⭐️  
-- Web3.js ⭐️  
-
-### ⚙️ Systems & Low-Level Programming
-- Rust ⭐️  
-- Python 📖
-
-Legend:
-
-⭐️ - low interest in the technology
-
-⭐️⭐️ - medium interest in the technology
-
-⭐️⭐️⭐️ - high interest in the technology
-
-📖 - currently learning
+-  Studiuję Informatykę na Uniwersytecie Śląskim 
+-  Tworzę aplikacje webowe
+-  Uczę się web security i cyberbezpieczeństwa
 
 
 ## 🔗 Znajdź mnie tutaj:
