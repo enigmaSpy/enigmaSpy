@@ -4,10 +4,14 @@
   <img src="https://skillicons.dev/icons?i=next,bash,python,linux,windows" />
 </p>
 
+
 <table width="100%">
   <tr>
   <td align="center">
-    <h1>Yooo 👋 Nazywam się Kamil!</h1><img src="https://komarev.com/ghpvc/?username=enigmaSpy&label=Profile+Views&color=blueviolet" alt="views" />
+    <h1>Me gusta Enigma</h1><img src="https://komarev.com/ghpvc/?username=enigmaSpy&label=Profile+Views&color=blueviolet" alt="views" />
+    <p align="left">
+      <img src="https://api.boot.dev/v1/users/public/61b1f66a-953b-442f-a692-cf91c91a61e3/thumbnail" >
+    </p>
     <img src="https://img.shields.io/github/followers/enigmaSpy?label=Followers&style=social" />
     <img src="https://img.shields.io/github/stars/enigmaSpy?style=social" />
     <div align="right">
